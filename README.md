@@ -1,2 +1,2 @@
 # Speed-control-using-BLDC-with-Simulink
-This repository showsa aimulnik model of BLDC motor
+This repository shows a simulnik model of BLDC motor
